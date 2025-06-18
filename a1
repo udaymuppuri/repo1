@@ -1,3 +1,8 @@
 helo world
 i am uday
+<<<<<<< HEAD
 welcome yo devops
+=======
+sample data adding in test branch 
+t1 t2 t3
+>>>>>>> test
